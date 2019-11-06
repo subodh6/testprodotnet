@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DemoProject>
+  <RunSettings>
+    
+    <URL>http://newtours.demoaut.com/mercuryregister.php</URL>
+    
+    <!--Possible Flag chrome, firefox, iexplorer -->
+    
+    <Browser>iexplorer</Browser>
+
+    <HomeExcelpath>C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\Data\Home.xlsx</HomeExcelpath>
+    
+  </RunSettings>
+    
+  </DemoProject>

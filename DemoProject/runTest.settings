@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DemoProject" GeneratedClassName="runTest">
+  <Profiles />
+  <Settings>
+    <Setting Name="URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://newtours.demoaut.com/mercuryregister.php</Value>
+    </Setting>
+    <Setting Name="Browser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">iexplorer</Value>
+    </Setting>
+    <Setting Name="HomeExcelpath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\Data\Home.xlsx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

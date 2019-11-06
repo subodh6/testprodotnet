@@ -1,0 +1,16 @@
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\Config\GlobalConfig.xml
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\Data\Home.xlsx
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\DemoProject.deps.json
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\DemoProject.runtimeconfig.json
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\DemoProject.runtimeconfig.dev.json
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\DemoProject.dll
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\bin\Release\netcoreapp2.1\DemoProject.pdb
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\obj\Release\netcoreapp2.1\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\obj\Release\netcoreapp2.1\DemoProject.AssemblyInfoInputs.cache
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\obj\Release\netcoreapp2.1\DemoProject.AssemblyInfo.cs
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\obj\Release\netcoreapp2.1\DemoProject.dll
+C:\Users\Neha.Sharma\source\repos\DemoProject\DemoProject\obj\Release\netcoreapp2.1\DemoProject.pdb

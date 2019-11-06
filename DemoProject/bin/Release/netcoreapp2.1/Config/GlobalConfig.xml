@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DemoProject>
+  <RunSettings>
+    <URL>http://newtours.demoaut.com/mercuryregister.php</URL>
+    
+    <!--Possible Flag Chrome,Firefox,Iexplorer -->
+    
+    <Browser>Chrome</Browser>
+  </RunSettings>
+    
+  </DemoProject>
